@@ -104,7 +104,7 @@ li {
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(http://templateocean.com/premium/template/kane/files/images/loading.gif);
+    background-image: url(../img/loading.gif);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -276,7 +276,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-    background: url(http://templateocean.com/premium/template/kane/files/images/bg-1.jpg) no-repeat center top fixed;
+    background: url(../img/bg-1.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
 }
@@ -496,7 +496,7 @@ object {
 -----------------------------------------*/
 
 .testimonials {
-    background: url(http://templateocean.com/premium/template/kane/files/images/bg-2.jpg) no-repeat center fixed;
+    background: url(../img/bg-2.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
@@ -668,7 +668,7 @@ object {
 -----------------------------------------*/
 
 .download {
-    background: url('http://templateocean.com/premium/template/kane/files/images/bg-3.jpg') no-repeat center fixed;
+    background: url('../img/bg-3.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
